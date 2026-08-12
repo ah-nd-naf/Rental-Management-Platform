@@ -1,0 +1,1 @@
+export default function TenantMaintenance() { return <div>Tenant Maintenance</div>; }

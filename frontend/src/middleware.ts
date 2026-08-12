@@ -1,0 +1,2 @@
+// Middleware
+export function middleware() {}

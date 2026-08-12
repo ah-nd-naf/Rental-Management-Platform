@@ -1,0 +1,1 @@
+export default function TenantRent() { return <div>Tenant Rent</div>; }

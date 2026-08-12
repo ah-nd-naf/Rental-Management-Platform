@@ -1,0 +1,1 @@
+export default function Tenancies() { return <div>Tenancies</div>; }

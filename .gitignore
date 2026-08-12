@@ -1,0 +1,21 @@
+# Node
+node_modules/
+.next/
+.env*
+!.env.example
+!.env.local.example
+
+# Python/Django
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+db.sqlite3
+/media/
+/staticfiles/
+
+# OS
+.DS_Store
+Thumbs.db
